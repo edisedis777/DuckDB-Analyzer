@@ -4,6 +4,9 @@
 
 A powerful tool for analyzing large CSV datasets using DuckDB - a high-performance analytical database system.
 
+Example - Sample 10 random rows from a CSV file:
+<img width="894" alt="Screenshot 2025-03-12 at 21 52 22" src="https://github.com/user-attachments/assets/1dd3fbb0-54a9-4101-b500-4910ce267b43" />
+
 ## 🚀 Overview
 
 DuckDB Analyzer simplifies working with large CSV datasets by leveraging the speed and efficiency of DuckDB. It provides a user-friendly CLI and Python API for common data analysis tasks without requiring complex database setup.
