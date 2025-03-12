@@ -1,4 +1,4 @@
-# DuckDB-Data-Analysis
+# DuckDB-Analyzer
 
 ## A Python project for analyzing large datasets with DuckDB.
 
