@@ -124,15 +124,7 @@ with DuckDBAnalyzer() as analyzer:
 
 ## 🧪 Performance
 
-DuckDB Analyzer significantly outperforms traditional Python data processing methods for large datasets:
-
-| Dataset Size | Pandas | DuckDB Analyzer |
-|--------------|--------|----------------|
-| 100MB CSV    | 6.2s   | 0.9s           |
-| 1GB CSV      | 58.7s  | 5.3s           |
-| 10GB CSV     | OOM*   | 47.1s          |
-
-*OOM: Out of memory error
+DuckDB Analyzer significantly outperforms traditional Python data processing methods for large datasets.
 
 ## 🤝 Contributing
 
