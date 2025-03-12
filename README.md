@@ -49,6 +49,9 @@ pip install -r requirements.txt
 python duckdb_analyzer.py [options]
 ```
 
+#### Get Sample Data
+Some great sample data CSV files are available [here](https://www.datablist.com/learn/csv/download-sample-csv-files) for free.
+
 #### Examples:
 
 Count rows in a CSV file:
@@ -146,3 +149,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 - [DuckDB](https://duckdb.org/) - The analytical database system that powers this tool
 - [Pandas](https://pandas.pydata.org/) - For data manipulation and analysis
+- [DataBlist](https://www.datablist.com/learn/csv/download-sample-csv-files) - For free large sample CSV files for testing.
