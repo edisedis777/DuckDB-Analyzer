@@ -1,5 +1,4 @@
 # DuckDB Analyzer
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python Version](https://img.shields.io/badge/python-3.7%2B-blue)](https://www.python.org/downloads/)
 
 A powerful tool for analyzing large CSV datasets using DuckDB - a high-performance analytical database system.
@@ -8,7 +7,6 @@ Example - Sample 10 random rows from a CSV file:
 <img width="894" alt="Screenshot 2025-03-12 at 21 52 22" src="https://github.com/user-attachments/assets/1dd3fbb0-54a9-4101-b500-4910ce267b43" />
 
 ## 🚀 Overview
-
 DuckDB Analyzer simplifies working with large CSV datasets by leveraging the speed and efficiency of DuckDB. It provides a user-friendly CLI and Python API for common data analysis tasks without requiring complex database setup.
 
 **Key Features:**
@@ -19,7 +17,6 @@ DuckDB Analyzer simplifies working with large CSV datasets by leveraging the spe
 - No database server or setup required
 
 ## 📋 Requirements
-
 - Python 3.7+
 - Dependencies:
   - duckdb
@@ -123,11 +120,9 @@ with DuckDBAnalyzer() as analyzer:
 | `query` | Run a custom SQL query | `--sql` | - |
 
 ## 🧪 Performance
-
 DuckDB Analyzer significantly outperforms traditional Python data processing methods for large datasets.
 
 ## 🤝 Contributing
-
 Contributions are welcome! Please feel free to submit a Pull Request.
 
 1. Fork the repository
@@ -136,12 +131,11 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📜 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## 🙏 Acknowledgements
-
 - [DuckDB](https://duckdb.org/) - The analytical database system that powers this tool
 - [Pandas](https://pandas.pydata.org/) - For data manipulation and analysis
 - [DataBlist](https://www.datablist.com/learn/csv/download-sample-csv-files) - For free large sample CSV files for testing.
+
+## 📜 License
+Distributed under the GNU Affero General Public License v3.0 License. See `LICENSE` for more information.
+
